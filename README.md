@@ -1,9 +1,7 @@
 <h2>Carlos Henrique Pinheiro</h2>
 <ul>
   <li> DDD 31
-  <li> 21 Anos
   <li> Belo Horizonte-MG
-  <li> Estudante de Programação
 </ul>
 
 <div>
