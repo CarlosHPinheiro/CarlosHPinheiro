@@ -17,7 +17,7 @@
 <h2>Stats</h2>
 <div>
 <a href="https://github.com/carloshpinheiro">
-<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>
-<img width="55%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
+<!---<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>--->
+<img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
