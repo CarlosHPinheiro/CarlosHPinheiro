@@ -1,6 +1,5 @@
 <h1>Carlos H Pinheiro</h1>
 <ul>
-  <li> DDD 31
   <li> Belo Horizonte - MG
   <li> Estudante de programação
   <li> Cursando Análise e Desenvolvimento de Sistemas
