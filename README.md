@@ -13,11 +13,11 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<!--- (FIX STATS)
+
 <h2>Stats</h2>
 <div>
 <a href="https://github.com/carloshpinheiro">
-<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>
-<img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/> --->
+<!---<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>--->
+<img width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHPinheiro&theme=dark&hide_border=true"/>
+<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
 </div>
-
