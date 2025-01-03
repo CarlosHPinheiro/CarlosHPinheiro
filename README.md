@@ -1,8 +1,7 @@
 <h1>Carlos H Pinheiro</h1>
 <ul>
   <li> Belo Horizonte - MG
-  <li> Estudante de programação
-  <li> Cursando Análise e Desenvolvimento de Sistemas
+  <li> Análise e Desenvolvimento de Sistemas
 </ul>
 
 <h2>Linguagens e Tecnologias</h2>
