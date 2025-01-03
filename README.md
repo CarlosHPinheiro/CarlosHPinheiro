@@ -1,6 +1,7 @@
 <h1>Carlos H Pinheiro</h1>
 <ul>
   <li> Belo Horizonte - MG
+  <li> Tecnologia da Informação
   <li> Análise e Desenvolvimento de Sistemas
 </ul>
 
