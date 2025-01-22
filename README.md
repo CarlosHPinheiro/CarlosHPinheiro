@@ -7,7 +7,7 @@
 
 <h2>Linguagens e Tecnologias</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title='Git'>
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title='Git'>
   <img align="center" alt="Github" height="40" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23C6C6C6" title='GitHub'>
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title='HTML5'>
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title='CSS3'>
