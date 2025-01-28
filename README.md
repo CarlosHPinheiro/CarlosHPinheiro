@@ -22,8 +22,6 @@
   <img align="center" alt="Flask" height="70" src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23BEBEBE" title='Flask'>
 </div>
 
----
-
 <!---
 <h2>Stats</h2>
 <div>
