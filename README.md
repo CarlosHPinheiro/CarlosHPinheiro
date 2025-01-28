@@ -1,11 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7da&height=120&section=header"/>
+
 <h1>Carlos H Pinheiro</h1>
+
 <ul>
   <li> Belo Horizonte - MG
   <li> Tecnologia da Informação
   <li> Análise e Desenvolvimento de Sistemas
 </ul>
 
-<h2>Linguagens e Tecnologias</h2>
+---
+
+<h2>Ferramentas e Linguagens</h2>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title='Git'>
   <img align="center" alt="Github" height="40" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23C6C6C6" title='GitHub'>
@@ -16,11 +22,15 @@
   <img align="center" alt="Flask" height="70" src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23BEBEBE" title='Flask'>
 </div>
 
+---
 
+<!---
 <h2>Stats</h2>
 <div>
 <a href="https://github.com/carloshpinheiro">
-<!---<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>--->
-<img width="50%" height="180em" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHPinheiro&theme=dark&hide_border=true"/>
-<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
+<!---<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>---
+!---<img width="50%" height="180em" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHPinheiro&theme=dark&hide_border=true"/>---
+<img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
 </div>
+--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aeac95&height=120&section=footer"/>
