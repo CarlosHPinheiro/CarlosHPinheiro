@@ -22,14 +22,14 @@
   <img align="center" alt="Flask" height="70" src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23BEBEBE" title='Flask'>
 </div>
 
-<!---
+
 <h2>Stats</h2>
 <div>
 <a href="https://github.com/carloshpinheiro">
-<!---<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>---
-!---<img width="50%" height="180em" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHPinheiro&theme=dark&hide_border=true"/>---
-<img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
+<!--- <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHPinheiro&count_private=true&show_icons=true&theme=dark"/>--->
+<img width="50%" height="180em" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHPinheiro&theme=dark&hide_border=true"/>
+<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpinheiro&layout=compact&theme=dark&hide_border=true"/>
 </div>
---->
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7da&height=120&section=footer"/>
