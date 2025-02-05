@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7da&height=120&section=header"/>
-
 <h1>Carlos H Pinheiro</h1>
 
 <ul>
@@ -33,4 +31,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7da&height=120&section=footer"/>
+<!---<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7da&height=120&section=footer"/>--->
